@@ -2,6 +2,8 @@
 
 <!--
 **ponteiro16/ponteiro16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luis Felipe, sou estudante do 3º ano do colégio Olga Cury. Tenho aulas de tecnologia e robótica e tenho experiencia com o alura
+
 
 Here are some ideas to get you started:
 
